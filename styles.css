@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+.container{
+	width:fit-content;
+	height:fit-content;
+	background-color:black;
+}
+.square{
+	height:15px;
+	width:15px;
+	background-color:pink;
+	display:flex;
+	flex-wrap:wrap;
+	gap:3px;
+}
